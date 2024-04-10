@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+
+.native-badge{
+  background-color: #ab0b0b;
+    padding: .25rem;
+    border-radius: .25rem;
+    display: inline-block;
+    margin: .128rem;
+}
